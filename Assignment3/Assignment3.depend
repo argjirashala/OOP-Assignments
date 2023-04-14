@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1652550592 source:c:\users\admin\desktop\oop codeblocks\assignment3\main.cpp
+	<iostream>
+	"seqinfileenumerator.hpp"
+	"stringstreamenumerator.hpp"
+	"maxsearch.hpp"
+	"summation.hpp"
+	"linsearch.hpp"
+
+1594564888 c:\users\admin\desktop\oop codeblocks\assignment3\seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1502810830 c:\users\admin\desktop\oop codeblocks\assignment3\enumerator.hpp
+
+1554933622 c:\users\admin\desktop\oop codeblocks\assignment3\stringstreamenumerator.hpp
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1619803324 c:\users\admin\desktop\oop codeblocks\assignment3\maxsearch.hpp
+	"procedure.hpp"
+
+1586934366 c:\users\admin\desktop\oop codeblocks\assignment3\procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+	<iostream>
+	<vector>
+
+1594542766 c:\users\admin\desktop\oop codeblocks\assignment3\summation.hpp
+	"procedure.hpp"
+	<iostream>
+
+1590765984 c:\users\admin\desktop\oop codeblocks\assignment3\linsearch.hpp
+	"procedure.hpp"
+
+1652550592 source:c:\users\admin\desktop\assignment3\main.cpp
+	<iostream>
+	"seqinfileenumerator.hpp"
+	"stringstreamenumerator.hpp"
+	"maxsearch.hpp"
+	"summation.hpp"
+	"linsearch.hpp"
+
+1594564888 c:\users\admin\desktop\assignment3\seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1502810830 c:\users\admin\desktop\assignment3\enumerator.hpp
+
+1554933622 c:\users\admin\desktop\assignment3\stringstreamenumerator.hpp
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1619803324 c:\users\admin\desktop\assignment3\maxsearch.hpp
+	"procedure.hpp"
+
+1586934366 c:\users\admin\desktop\assignment3\procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+	<iostream>
+	<vector>
+
+1594542766 c:\users\admin\desktop\assignment3\summation.hpp
+	"procedure.hpp"
+	<iostream>
+
+1590765984 c:\users\admin\desktop\assignment3\linsearch.hpp
+	"procedure.hpp"
+
